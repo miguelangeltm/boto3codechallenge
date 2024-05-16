@@ -8,7 +8,7 @@ Check if the s3 buckets have public access, if that is the case remove it to avo
 ## Installation
 - Clone this repository: ```git clone  https://github.com/miguelangeltm/boto3codechallenge.git```
 - Navigate to the project directory: ```cd boto3codechallenge```
--Install the dependencies: ```pip install -r requirements.txt```
+- Install the dependencies: ```pip install -r requirements.txt```
 
 ## Usage
 - Just run the main.py file ;) ```python main.py```
