@@ -15,18 +15,18 @@ Check if the s3 buckets have public access, if that is the case remove it to avo
 
 This is an example with three buckets: one has a public access policy, another does not have a public access policy, and the third has no policies at all (e.g., the CloudFormation bucket templates cf-templates-13hdy9bp6587g76-eu-west-1).
 
-<img width="600" alt="image" src="https://github.com/miguelangeltm/boto3codechallenge/assets/43521047/8faba723-8f87-4275-98c4-cf7f854349aa">
+<img width="1200" alt="image" src="https://github.com/miguelangeltm/boto3codechallenge/assets/43521047/8faba723-8f87-4275-98c4-cf7f854349aa">
 
 Public Access policies looks like this:
 
-<img width="600" alt="image" src="https://github.com/miguelangeltm/boto3codechallenge/assets/43521047/c6a996f2-e396-4c3e-8ad3-028bd2b5d95a">
+<img width="1200" alt="image" src="https://github.com/miguelangeltm/boto3codechallenge/assets/43521047/c6a996f2-e396-4c3e-8ad3-028bd2b5d95a">
 
 
-<img width="600" alt="image" src="https://github.com/miguelangeltm/boto3codechallenge/assets/43521047/59ffecc4-1a71-494a-b457-976544071fd7">
+<img width="1200" alt="image" src="https://github.com/miguelangeltm/boto3codechallenge/assets/43521047/59ffecc4-1a71-494a-b457-976544071fd7">
 
 After script execution:
 
-<img width="600" alt="image" src="https://github.com/miguelangeltm/boto3codechallenge/assets/43521047/1d2dc47a-1410-47b1-96bb-f57331a49a10">
+<img width="1200" alt="image" src="https://github.com/miguelangeltm/boto3codechallenge/assets/43521047/1d2dc47a-1410-47b1-96bb-f57331a49a10">
 
 
 
