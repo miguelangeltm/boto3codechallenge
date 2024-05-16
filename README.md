@@ -17,4 +17,17 @@ This is an example with three buckets: one has a public access policy, another d
 
 <img width="600" alt="image" src="https://github.com/miguelangeltm/boto3codechallenge/assets/43521047/8faba723-8f87-4275-98c4-cf7f854349aa">
 
+Public Access policies looks like this:
+
+<img width="600" alt="image" src="https://github.com/miguelangeltm/boto3codechallenge/assets/43521047/c6a996f2-e396-4c3e-8ad3-028bd2b5d95a">
+
+
+<img width="600" alt="image" src="https://github.com/miguelangeltm/boto3codechallenge/assets/43521047/59ffecc4-1a71-494a-b457-976544071fd7">
+
+After script execution:
+
+<img width="600" alt="image" src="https://github.com/miguelangeltm/boto3codechallenge/assets/43521047/1d2dc47a-1410-47b1-96bb-f57331a49a10">
+
+
+
 
