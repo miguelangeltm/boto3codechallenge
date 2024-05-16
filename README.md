@@ -13,7 +13,7 @@ Check if the s3 buckets have public access, if that is the case remove it to avo
 ## Usage
 - Just run the main.py file ;) ```python main.py```
 
-This is an example with three buckets: one has a public access policy, another does not have a public access policy, and the third has no policies at all (e.g., the CloudFormation bucket templates cf-templates-13hdy9bp6587g76-eu-west-1).
+This is an example with three buckets: two have a public access policy, and the third has no policies at all (e.g., the CloudFormation bucket templates cf-templates-13hdy9bp6587g76-eu-west-1).
 
 <img width="1200" alt="image" src="https://github.com/miguelangeltm/boto3codechallenge/assets/43521047/8faba723-8f87-4275-98c4-cf7f854349aa">
 
